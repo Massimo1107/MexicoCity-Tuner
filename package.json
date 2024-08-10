@@ -1,0 +1,42 @@
+{
+  "name": "MexicoCity-Tuner",
+  "version": "1.0.2",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder"
+  },
+  "homepage": "https://github.com/Massimo1107/repo#readme",
+  "bugs": {
+    "url": "https://github.com/Massimo1107/repo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Massimo1107/MexicoCity-Tuner.git"
+  },
+  "build": {
+    "appId": "com.yourdomain.gta5tunercalculator",
+    "win": {
+      "icon": "./assets/logoonew.png"
+    },
+    "productName": "MexicoCity-Tuner",
+    "files": [
+      "**/*"
+    ],
+    "directories": {
+      "buildResources": "resources"
+    },
+    "publish": [
+      {
+        "provider": "github",
+        "owner": "Massimo1107",
+        "repo": "MexicoCity-Tuner"
+      }
+    ]
+  },
+  "devDependencies": {
+    "electron": "^22.0.0",
+    "electron-builder": "^24.0.0"
+  }
+}
