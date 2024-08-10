@@ -91,7 +91,7 @@ nsis:
     !macroend
 
     !addplugindir /x86-unicode "C:\Users\mario\AppData\Local\electron-builder\Cache\nsis\nsis-resources-3.4.1\plugins\x86-unicode"
-    !include "C:\Users\mario\AppData\Local\Temp\t-FEFaUM\0-messages.nsh"
+    !include "C:\Users\mario\AppData\Local\Temp\t-VVoVDQ\0-messages.nsh"
 
     Var newStartMenuLink
     Var oldStartMenuLink

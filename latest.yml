@@ -1,8 +1,8 @@
-version: 1.0.0
+version: 1.0.1
 files:
-  - url: MexicoCity-Tuner-Setup-1.0.0.exe
-    sha512: M35u0jQ7YZ/pKC/skqeG6lxWfYI3KNtialFMDoZ5iNOK4HoK51zvYTYkqAMxhNpW2MHH5GwvTGzMhT5DD5U73g==
-    size: 68713609
-path: MexicoCity-Tuner-Setup-1.0.0.exe
-sha512: M35u0jQ7YZ/pKC/skqeG6lxWfYI3KNtialFMDoZ5iNOK4HoK51zvYTYkqAMxhNpW2MHH5GwvTGzMhT5DD5U73g==
-releaseDate: '2024-08-10T09:06:03.449Z'
+  - url: MexicoCity-Tuner-Setup-1.0.1.exe
+    sha512: oHoOzYlMJ1L7o/Xz28YMpTsu4Lt2GfjD2WG6mvEB4Obn4AkIq4XgKXjEVGkpde/BIt6Q1DS/2h+tURd/Vgsveg==
+    size: 68713612
+path: MexicoCity-Tuner-Setup-1.0.1.exe
+sha512: oHoOzYlMJ1L7o/Xz28YMpTsu4Lt2GfjD2WG6mvEB4Obn4AkIq4XgKXjEVGkpde/BIt6Q1DS/2h+tURd/Vgsveg==
+releaseDate: '2024-08-10T09:14:51.543Z'
